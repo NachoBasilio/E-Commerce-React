@@ -12,7 +12,6 @@ export default function Home() {
           <Item src="http://escueladevrock.com/store/3.png"/>
           <Item src="http://escueladevrock.com/store/4.png"/>
           <Item src="http://escueladevrock.com/store/5.png"/>
-          <Item src="http://escueladevrock.com/store/13.png"/>
         </div>
       </div>
     </div>
